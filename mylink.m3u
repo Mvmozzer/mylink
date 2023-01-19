@@ -1,3 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/i5iotgyw-720.jpg" parent-code="" group-title="RELIGIOSO INGLÊS", TBN FHD
 https://tbn-jw.cdn.vustreams.com/live/tbn/live.isml/live-audio_1=96000-video=2800000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/0vxrfuyi-720.jpg" parent-code="" group-title="RELIGIOSO INGLÊS", TBN INSPIRE FHD
+https://tbn-jw.cdn.vustreams.com/live/inspire/live.isml/live-audio_1=128000-video=2800000.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.scdn.co/image/ab6761610000e5eb364bfec560f8c7fd70d42c73" parent-code="" group-title="YOUTUBE LIVE", Gabriel Guedes Live
+youtube.com/channel/UC55nYhrqE3U7-rP-k0enYRg/live
