@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://redemaisfamilia.com.br/wp-content/uploads/2022/08/Logo-rede-mais-familia.png" parent-code="" group-title="CANAL ABERTO", MAIS FAMILIA
 https://video01.logicahost.com.br/redefamiliaa/redefamiliaa/chunklist_w1154068398.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png" parent-code="" group-title="CANAL ABERTO", REDETV!
-http://api.magiaiptv.com/live/800196/128093/m3_NF1sEbwngvMJk7fW9CRyOxQd_1080p
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://play-lh.googleusercontent.com/SCZEuaonk-bH8Vw5N1C5ImgJFQNNaX5F7tIgUquzJWwVYaENR_uhqpUxUH2z4EseblOl=w416-h235-rw" parent-code="" group-title="CANAL ABERTO", TV PAMPA (REDETV!)
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/chunklist_w1491403974.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://boasnovas.tv/wp-content/uploads/2015/01/Logo-em-alta-300x130.png" parent-code="" group-title="RELIGIOSO PORTUGUÊS", BOAS NOVAS
