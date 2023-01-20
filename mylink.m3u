@@ -1,5 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/i5iotgyw-720.jpg" parent-code="" group-title="RELIGIOSO INGLÊS", TBN
+https://sp.rmbl.ws/s8/2/m/t/j/T/mtjTh.caa.mp4?u=3&b=0
 https://tbn-jw.cdn.vustreams.com/live/tbn/live.isml/live-audio_1=96000-video=2800000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/0vxrfuyi-720.jpg" parent-code="" group-title="RELIGIOSO INGLÊS", TBN INSPIRE
 https://tbn-jw.cdn.vustreams.com/live/inspire/live.isml/live-audio_1=128000-video=2800000.m3u8
