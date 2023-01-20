@@ -5,18 +5,31 @@ http://api.magiaiptv.com/live/800196/128093/m2_kzeKgKsjyTCBUMl4_1080p
 http://api.magiaiptv.com/live/800196/128093/m2_bz2lc7s8PV3avHAgjnFxpM0w_720p_2M
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/TV_Globo_2021_azul.png/revision/latest/scale-to-width-down/200?cb=20220201030422" parent-code="" group-title="CANAL ABERTO", TV GLOBO BH 1080p
 http://api.magiaiptv.com/live/800196/128093/m2_SH5nRm6xPFBDAHxEv8_1080p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/TV_Globo_2021_azul.png/revision/latest/scale-to-width-down/200?cb=20220201030422" parent-code="" group-title="CANAL ABERTO", TV GLOBO PE
+http://api.magiaiptv.com/live/800196/128093/p1_dXr7MDxd0aqy
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://redemaisfamilia.com.br/wp-content/uploads/2022/08/Logo-rede-mais-familia.png" parent-code="" group-title="CANAL ABERTO", MAIS FAMILIA
 https://video01.logicahost.com.br/redefamiliaa/redefamiliaa/chunklist_w1154068398.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png" parent-code="" group-title="CANAL ABERTO", REDETV!
 http://api.magiaiptv.com/live/800196/128093/m3_NF1sEbwngvMJk7fW9CRyOxQd_1080p
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://play-lh.googleusercontent.com/SCZEuaonk-bH8Vw5N1C5ImgJFQNNaX5F7tIgUquzJWwVYaENR_uhqpUxUH2z4EseblOl=w416-h235-rw" parent-code="" group-title="CANAL ABERTO", TV PAMPA (REDETV!)
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/chunklist_w1491403974.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.portaldosjornalistas.com.br/wp-content/uploads/2018/01/Logo-Band.png" parent-code="" group-title="CANAL ABERTO", BAND SP
 http://api.magiaiptv.com/live/800196/128093/m3_3zFNpotNh0Q0iR_1080p
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1024px-Logotipo_do_SBT.svg.png" parent-code="" group-title="CANAL ABERTO", SBT SP
 http://api.magiaiptv.com/live/800196/128093/m1_DV2bTcq67LA3L7UN_720p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1024px-Logotipo_do_SBT.svg.png" parent-code="" group-title="CANAL ABERTO", SBT PE
+http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://recordtv.r7.com/files/2016/11/logo-ok-.jpg" parent-code="" group-title="CANAL ABERTO", RECORD TV SP 720p
 http://api.magiaiptv.com/live/800196/128093/m3_6zJcLYxLJH3bOq_720p
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/05a04d20468f33dcece26a290b7468d6.webp" parent-code="" group-title="CANAL ABERTO", TV CULTURA 720p
+http://api.magiaiptv.com/live/800196/128093/m2_MvNKiUyrzsEqeSBDdgmf7LIG_720p
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pereirabarreto.sp.gov.br/wp-content/uploads/2019/09/Tv-gazeta-Gazeta-1.jpg" parent-code="" group-title="CANAL ABERTO", TV GAZETA SP 720p
 http://api.magiaiptv.com/live/800196/128093/m3_kfSX64Fvn1EIg85ms9OitVY2_720p
 
@@ -36,3 +49,6 @@ https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/chunklist_b14
 https://tbn-jw.cdn.vustreams.com/live/tbn/live.isml/live-audio_1=96000-video=2800000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/0vxrfuyi-720.jpg" parent-code="" group-title="RELIGIOSO INGLÊS", TBN INSPIRE
 https://tbn-jw.cdn.vustreams.com/live/inspire/live.isml/live-audio_1=128000-video=2800000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img2.gratispng.com/20181125/uaj/kisspng-logo-tve-internacional-la-1-rtve-tve-hd-5bfae49e01bb39.8822497515431691820071.jpg" parent-code="" group-title="INTERNACIONAL", TVE
+http://api.magiaiptv.com/live/800196/128093/m3_VHFtCQfuKZoqtxgmK
