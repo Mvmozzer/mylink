@@ -12,7 +12,6 @@ http://api.magiaiptv.com/live/800196/128093/m1_DV2bTcq67LA3L7UN_720p
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://recordtv.r7.com/files/2016/11/logo-ok-.jpg" parent-code="" group-title="CANAL ABERTO", RECORD TV SP 720p
 http://api.magiaiptv.com/live/800196/128093/m3_6zJcLYxLJH3bOq_720p
 
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://telaviva.com.br/wp-content/uploads/2021/11/bandnews.png" parent-code="" group-title="CANAL DE NOTÍCIAS", BAND NEWS FHD
 http://api.magiaiptv.com/live/800196/128093/m3_wM1DcpyixXePdVU8F2ogE6KT_1080p
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gkpb.com.br/wp-content/uploads/2022/08/novo-logo-globonews-2022jpg.jpg" parent-code="" group-title="CANAL DE NOTÍCIAS", GLOBO NEWS FHD
@@ -24,7 +23,6 @@ http://api.magiaiptv.com/live/800196/128093/m2_dHYy9wieO2jb1QALkn30rI7u_720p
 https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://play-lh.googleusercontent.com/cbE0oPcN9ybGpP-VNVkz9AEnzWezqdbXXdEBcsWI0PLbCYQwPYYEMGJW-C253khNNRk" parent-code="" group-title="RELIGIOSO PORTUGUÊS", RS21
 https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/chunklist_b1428000.m3u8
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/i5iotgyw-720.jpg" parent-code="" group-title="RELIGIOSO INGLÊS", TBN
 https://tbn-jw.cdn.vustreams.com/live/tbn/live.isml/live-audio_1=96000-video=2800000.m3u8
