@@ -1,6 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/TV_Globo_2021_azul.png/revision/latest/scale-to-width-down/200?cb=20220201030422" parent-code="" group-title="CANAL ABERTO", TV GLOBO RJ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/TV_Globo_2021_azul.png/revision/latest/scale-to-width-down/200?cb=20220201030422" parent-code="" group-title="CANAL ABERTO", TV GLOBO RJ 1080p
 http://api.magiaiptv.com/live/800196/128093/m2_kzeKgKsjyTCBUMl4_1080p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/TV_Globo_2021_azul.png/revision/latest/scale-to-width-down/200?cb=20220201030422" parent-code="" group-title="CANAL ABERTO", TV GLOBO SP 720p
+http://api.magiaiptv.com/live/800196/128093/m2_bz2lc7s8PV3avHAgjnFxpM0w_720p_2M
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/TV_Globo_2021_azul.png/revision/latest/scale-to-width-down/200?cb=20220201030422" parent-code="" group-title="CANAL ABERTO", TV GLOBO BH 1080p
+http://api.magiaiptv.com/live/800196/128093/m2_SH5nRm6xPFBDAHxEv8_1080p
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://redemaisfamilia.com.br/wp-content/uploads/2022/08/Logo-rede-mais-familia.png" parent-code="" group-title="CANAL ABERTO", MAIS FAMILIA
 https://video01.logicahost.com.br/redefamiliaa/redefamiliaa/chunklist_w1154068398.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png" parent-code="" group-title="CANAL ABERTO", REDETV!
