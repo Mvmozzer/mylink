@@ -7,10 +7,15 @@ http://api.magiaiptv.com/live/800196/128093/m3_NF1sEbwngvMJk7fW9CRyOxQd_1080p
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/chunklist_w1491403974.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.portaldosjornalistas.com.br/wp-content/uploads/2018/01/Logo-Band.png" parent-code="" group-title="CANAL ABERTO", BAND SP
 http://api.magiaiptv.com/live/800196/128093/m3_3zFNpotNh0Q0iR_1080p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1024px-Logotipo_do_SBT.svg.png" parent-code="" group-title="CANAL ABERTO", SBT SP
+http://api.magiaiptv.com/live/800196/128093/m1_DV2bTcq67LA3L7UN_720p
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://boasnovas.tv/wp-content/uploads/2015/01/Logo-em-alta-300x130.png" parent-code="" group-title="RELIGIOSO PORTUGUÊS", BOAS NOVAS
 https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://play-lh.googleusercontent.com/cbE0oPcN9ybGpP-VNVkz9AEnzWezqdbXXdEBcsWI0PLbCYQwPYYEMGJW-C253khNNRk" parent-code="" group-title="RELIGIOSO PORTUGUÊS", RS21
 https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/chunklist_b1428000.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/i5iotgyw-720.jpg" parent-code="" group-title="RELIGIOSO INGLÊS", TBN
 https://tbn-jw.cdn.vustreams.com/live/tbn/live.isml/live-audio_1=96000-video=2800000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/0vxrfuyi-720.jpg" parent-code="" group-title="RELIGIOSO INGLÊS", TBN INSPIRE
