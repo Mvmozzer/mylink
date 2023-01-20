@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/TV_Globo_2021_azul.png/revision/latest/scale-to-width-down/200?cb=20220201030422" parent-code="" group-title="CANAL ABERTO", TV GLOBO RJ
+http://api.magiaiptv.com/live/800196/128093/m2_kzeKgKsjyTCBUMl4_1080p
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://redemaisfamilia.com.br/wp-content/uploads/2022/08/Logo-rede-mais-familia.png" parent-code="" group-title="CANAL ABERTO", MAIS FAMILIA
 https://video01.logicahost.com.br/redefamiliaa/redefamiliaa/chunklist_w1154068398.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png" parent-code="" group-title="CANAL ABERTO", REDETV!
@@ -11,6 +13,8 @@ http://api.magiaiptv.com/live/800196/128093/m3_3zFNpotNh0Q0iR_1080p
 http://api.magiaiptv.com/live/800196/128093/m1_DV2bTcq67LA3L7UN_720p
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://recordtv.r7.com/files/2016/11/logo-ok-.jpg" parent-code="" group-title="CANAL ABERTO", RECORD TV SP 720p
 http://api.magiaiptv.com/live/800196/128093/m3_6zJcLYxLJH3bOq_720p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pereirabarreto.sp.gov.br/wp-content/uploads/2019/09/Tv-gazeta-Gazeta-1.jpg" parent-code="" group-title="CANAL ABERTO", TV GAZETA SP 720p
+http://api.magiaiptv.com/live/800196/128093/m3_kfSX64Fvn1EIg85ms9OitVY2_720p
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://telaviva.com.br/wp-content/uploads/2021/11/bandnews.png" parent-code="" group-title="CANAL DE NOTÍCIAS", BAND NEWS FHD
 http://api.magiaiptv.com/live/800196/128093/m3_wM1DcpyixXePdVU8F2ogE6KT_1080p
