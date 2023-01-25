@@ -83,17 +83,20 @@ http://api.magiaiptv.com/live/800196/128093/m3_VHFtCQfuKZoqtxgmK
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="       " parent-code="" group-title="HD", Animal Planet HD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="       " parent-code="" group-title="HD", Animal Planet HD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="       " parent-code="" group-title="HD", Animal Planet HD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="       " parent-code="" group-title="HD", Animal Planet HD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="       " parent-code="" group-title="HD", Animal Planet HD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="       " parent-code="" group-title="HD", Animal Planet HD
 
 
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.svgrepo.com/show/303387/national-geographic-logo.svg" parent-code="" group-title="HD", National Geographic HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16743
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/CanalDiscoveryIDLA.png" parent-code="" group-title="HD", ID Investigao Discovery HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16736
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6b1d12de8651232b370_cinecanal.png" parent-code="" group-title="HD", CINE CANAL HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16721
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://futebolplayhd.com/imagens-futebol/411570ab890fda43df326c2d85493b73.jpg" parent-code="" group-title="HD", ESPN HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16718
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" parent-code="" group-title="HD", Discovery Turbo HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16711
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/TLC_Discovery.png" parent-code="" group-title="HD", Discovery TLC HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16710
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nicepng.com/png/detail/15-153394_discovery-science-discovery-science-tv-logo.png" parent-code="" group-title="HD", Discovery Science HD
 http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16708
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://4.bp.blogspot.com/-OI1MpOShYPQ/XHr0g08i_JI/AAAAAAABSms/IWyINMdPP7Aon84CJRYT5OX3QJXmtvUUwCPcBGAYYCw/s1600/comedy_central_2018_logo.png" parent-code="" group-title="HD", COMEDY CENTRAL HD
