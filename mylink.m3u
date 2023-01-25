@@ -83,10 +83,25 @@ http://api.magiaiptv.com/live/800196/128093/m3_VHFtCQfuKZoqtxgmK
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="       " parent-code="" group-title="HD", Animal Planet HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="       " parent-code="" group-title="HD", Animal Planet HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="       " parent-code="" group-title="HD", Animal Planet HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="       " parent-code="" group-title="HD", Animal Planet HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="       " parent-code="" group-title="HD", Animal Planet HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="       " parent-code="" group-title="HD", Animal Planet HD
 
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nicepng.com/png/detail/15-153394_discovery-science-discovery-science-tv-logo.png" parent-code="" group-title="HD", Discovery Science HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16708
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://4.bp.blogspot.com/-OI1MpOShYPQ/XHr0g08i_JI/AAAAAAABSms/IWyINMdPP7Aon84CJRYT5OX3QJXmtvUUwCPcBGAYYCw/s1600/comedy_central_2018_logo.png" parent-code="" group-title="HD", COMEDY CENTRAL HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16704
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s3.glbimg.com/v1/AUTH_d293cd467b2749dfa7046f74d82537d0/prod/home-share-combate-343f6619.png" parent-code="" group-title="HD", COMBATE HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16703
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/0/04/Animal-planet-branco.jpg/revision/latest?cb=20210905004045&path-prefix=pt-br" parent-code="" group-title="HD", Animal Planet HD
-
-
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16693
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/736x/5c/25/0d/5c250d7d2315f97a4b868ec7de67dd00.jpg" parent-code="" group-title="HD", Tastemade Brasil HD
 https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
 
