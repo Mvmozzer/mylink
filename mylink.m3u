@@ -56,7 +56,8 @@ http://api.magiaiptv.com/live/800196/128093/m2_1KBrVeObLx7wqyN8g_720p_2M
 https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://play-lh.googleusercontent.com/cbE0oPcN9ybGpP-VNVkz9AEnzWezqdbXXdEBcsWI0PLbCYQwPYYEMGJW-C253khNNRk" parent-code="" group-title="RELIGIOSO", RS21
 https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/chunklist_b1428000.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/ba/LGT_Rede_Gospel.png" parent-code="" group-title="RELIGIOSO", REDE GOSPEL
+ttps://rr3---sn-uxaxh5g-bpbed.googlevideo.com/videoplayback%3Fexpire%3D1674696394%26ei%3DaoLRY4L7I77d1sQP7Zy1gA0%26ip%3D187.127.41.136%26id%3D2kOpt9Q8RYI.7%26itag%3D140%26aitags%3D140%26source%3Dyt_live_broadcast%26requiressl%3Dyes%26mh%3Da6%26mm%3D44%252C29%26mn%3Dsn-uxaxh5g-bpbed%252Csn-uxaxh5g-jo4l%26ms%3Dlva%252Crdu%26mv%3Du%26mvi%3D3%26pl%3D23%26vprv%3D1%26live%3D1%26hang%3D1%26noclen%3D1%26mime%3Daudio%252Fmp4%26ns%3Du7f8XqHrzDpS9bLVWcRQ-VAL%26gir%3Dyes%26mt%3D1674673541%26fvip%3D4%26keepalive%3Dyes%26fexp%3D24007246%26c%3DWEB%26n%3DulYfnLaCaaQqJoq%26sparams%3Dexpire%252Cei%252Cip%252Cid%252Caitags%252Csource%252Crequiressl%252Cvprv%252Clive%252Chang%252Cnoclen%252Cmime%252Cns%252Cgir%26lsparams%3Dmh%252Cmm%252Cmn%252Cms%252Cmv%252Cmvi%252Cpl%26lsig%3DAG3C_xAwRQIgU9P_tC84AtAhkrZ-yoAk-dCQYVVHofyPzzMGXcVjEPwCIQCuI4Z-nifHc86NrPQgz2WwNIMjvHOL7g81Vs7o17tINA%253D%253D
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/i5iotgyw-720.jpg" parent-code="" group-title="RELIGIOSO", TBN
 https://tbn-jw.cdn.vustreams.com/live/tbn/live.isml/live-audio_1=96000-video=2800000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/0vxrfuyi-720.jpg" parent-code="" group-title="RELIGIOSO", TBN INSPIRE
@@ -78,6 +79,10 @@ https://player-api.new.livestream.com/accounts/29151850/events/9385635/broadcast
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img2.gratispng.com/20181125/uaj/kisspng-logo-tve-internacional-la-1-rtve-tve-hd-5bfae49e01bb39.8822497515431691820071.jpg" parent-code="" group-title="INTERNACIONAL", TVE
 http://api.magiaiptv.com/live/800196/128093/m3_VHFtCQfuKZoqtxgmK
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://sic.pt/wp-content/uploads/2022/01/SIC-1.png" parent-code="" group-title="INTERNACIONAL", SIC
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/76/92435EDB-4EE3-4158-95B5-FE6621929EB0.png/revision/latest/scale-to-width-down/2360?cb=20220902184651&path-prefix=pt-br" parent-code="" group-title="4K", Cartoon Network 4k
 http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31031
