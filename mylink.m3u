@@ -142,8 +142,10 @@ https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnh0bJr9GVVVw7OhSD4x3MCjzIbsJMy2dqCgQ90eyA=s900-c-k-c0x00ffffff-no-rj" parent-code="" group-title="FULL HD", FOOD NETWORK FULLHD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png" parent-code="" group-title="FULL HD", FOOD NETWORK FULLHD
 http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31606
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnh0bJr9GVVVw7OhSD4x3MCjzIbsJMy2dqCgQ90eyA=s900-c-k-c0x00ffffff-no-rj" parent-code="" group-title="FULL HD", HOME & HEALTH FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31107
 
 
 
