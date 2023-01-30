@@ -1,11 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.scdn.co/image/ab6761610000e5eb364bfec560f8c7fd70d42c73" parent-code="" group-title="YOUTUBE LIVE", GABRIEL GUEDES LIVE
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1674758267/ei/G3TSY7qgGtyE1sQP6-GTmA0/ip/187.127.41.136/id/2kOpt9Q8RYI.7/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgHWaLczsE0TYTez7SXM32ANpwdVoTX3yuN_jWh0ORWgMCICOtbGAd2RTnSb_LLjinZ81eSpAkUlbHkTVkYAGKU-Rw/file/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-V3ETYPi76zM/X8jHYpSphcI/AAAAAAAAGm8/v2L5gpUcAg0tusjAvf8QiYW8GmzV2rWkACLcBGAsYHQ/s1352/Captura%2Bde%2Btela%2B2020-12-03%2B08.07.49.png" parent-code="" group-title="YOUTUBE LIVE", NIVIA SOARES LIVE
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1674526804/ei/9OvOY4nDEuOQ-LAP0vSjwAI/ip/187.127.41.136/id/92VIVO-gtYE.2/source/yt_live_broadcast/requiressl/yes/tx/24438948/txs/24438945%2C24438946%2C24438947%2C24438948%2C24438949%2C24438950%2C24438951/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgLC7EUVUx-puDPLaOqu_WSxKdyt6zcDM2MbDlj-BmOoUCIDiFZQerWOLQqn6uLev9UD5nvfFbc-gqN-V6Cn9drCvi/file/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS843SLZL0_bFwfgnnDH8FIq2nId3hraMR1i4z3pziz6mJAxT5j_TTcGqVxP8frJitgWHg&usqp=CAU" parent-code="" group-title="YOUTUBE LIVE", SOM QUE ALIMENTA LIVE
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1674529412/ei/JPbOY4iHF6KA-LAPtcKO6Ac/ip/187.127.41.136/id/YVpKpueQ7hk.3/source/yt_live_broadcast/requiressl/yes/tx/24438948/txs/24438945%2C24438946%2C24438947%2C24438948%2C24438949%2C24438950%2C24438951/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgLNg0ClSAkELYi-EP63C2Wtc1mI78k-0QDbFBFClbRYQCIQC8Y2uOeAmdavaTrnZJxlOO8RIVFL44tzeZEcFmEv5pRw%3D%3D/file/index.m3u8
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/TV_Globo_2021_azul.png/revision/latest/scale-to-width-down/200?cb=20220201030422" parent-code="" group-title="CANAL ABERTO", TV GLOBO RJ 1080p
 http://api.magiaiptv.com/live/800196/128093/m2_kzeKgKsjyTCBUMl4_1080p
@@ -41,6 +34,14 @@ http://api.magiaiptv.com/live/800196/128093/m2_MvNKiUyrzsEqeSBDdgmf7LIG_720p
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pereirabarreto.sp.gov.br/wp-content/uploads/2019/09/Tv-gazeta-Gazeta-1.jpg" parent-code="" group-title="CANAL ABERTO", TV GAZETA SP 720p
 http://api.magiaiptv.com/live/800196/128093/m3_kfSX64Fvn1EIg85ms9OitVY2_720p
 
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://telaviva.com.br/wp-content/uploads/2021/11/bandnews.png" parent-code="" group-title="CANAL DE NOTÍCIAS", BAND NEWS FHD
 http://api.magiaiptv.com/live/800196/128093/m3_wM1DcpyixXePdVU8F2ogE6KT_1080p
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gkpb.com.br/wp-content/uploads/2022/08/novo-logo-globonews-2022jpg.jpg" parent-code="" group-title="CANAL DE NOTÍCIAS", GLOBO NEWS FHD
@@ -52,6 +53,15 @@ https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/ind
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/originals/f9/5f/87/f95f87f63c958bfcce7aa7e43e80a1fe.png" parent-code="" group-title="CANAL DE NOTÍCIAS", CNN BRASIL
 http://api.magiaiptv.com/live/800196/128093/m2_1KBrVeObLx7wqyN8g_720p_2M
 
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://boasnovas.tv/wp-content/uploads/2015/01/Logo-em-alta-300x130.png" parent-code="" group-title="RELIGIOSO", BOAS NOVAS
 https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://play-lh.googleusercontent.com/cbE0oPcN9ybGpP-VNVkz9AEnzWezqdbXXdEBcsWI0PLbCYQwPYYEMGJW-C253khNNRk" parent-code="" group-title="RELIGIOSO", RS21
@@ -60,7 +70,6 @@ https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/chunklist_b14
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.novotempo.com/wp-content/uploads/2022/07/cropped-logo.png" parent-code="" group-title="RELIGIOSO", NOVO TEMPO
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b3628000_slpor.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/i5iotgyw-720.jpg" parent-code="" group-title="RELIGIOSO", TBN
 https://tbn-jw.cdn.vustreams.com/live/tbn/live.isml/live-audio_1=96000-video=2800000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/0vxrfuyi-720.jpg" parent-code="" group-title="RELIGIOSO", TBN INSPIRE
@@ -80,6 +89,11 @@ https://player-api.new.livestream.com/accounts/29151850/events/9385581/broadcast
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vhx.imgix.net/jsm/assets/b69f0d1a-adb2-4a18-a9d4-7ab479c6f302.png?fit=max&h=84&q=92&w=400" parent-code="" group-title="RELIGIOSO", SBN Domestic - Portugues
 https://player-api.new.livestream.com/accounts/29151850/events/9385635/broadcasts/234751082.secure.m3u8?dw=14400&hdnea=st%3D1674674520~exp%3D1674676320~acl%3D%2Fi%2F29151850_9385635_lsik1mah3vd8grl7ywr_1%40320701%2F%2A~hmac%3D9c9f141e5b5d12c35b181abe74559477e0814b7492a2bfa19025def68792dc49&token=63d18284_c1e554547dfeaa09e3ea35f63b0bbdd3a4589780
 
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img2.gratispng.com/20181125/uaj/kisspng-logo-tve-internacional-la-1-rtve-tve-hd-5bfae49e01bb39.8822497515431691820071.jpg" parent-code="" group-title="INTERNACIONAL", TVE
 http://api.magiaiptv.com/live/800196/128093/m3_VHFtCQfuKZoqtxgmK
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://sic.pt/wp-content/uploads/2022/01/SIC-1.png" parent-code="" group-title="INTERNACIONAL", SIC
@@ -88,9 +102,14 @@ https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/in
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.svgrepo.com/show/303387/national-geographic-logo.svg" parent-code="" group-title="HD", National Geographic HD
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.nationalgeographicbrasil.com/files/styles/image_3200/public/nglogo2.png?w=1900&h=1161" parent-code="" group-title="HD", National Geographic HD
 http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16743
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/CanalDiscoveryIDLA.png" parent-code="" group-title="HD", ID Investigao Discovery HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="data:image/jpeg;base64,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" parent-code="" group-title="HD", ID Investigao Discovery HD
 http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16736
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6b1d12de8651232b370_cinecanal.png" parent-code="" group-title="HD", CINE CANAL HD
 http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16721
@@ -100,6 +119,14 @@ http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16718
 http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16711
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/TLC_Discovery.png" parent-code="" group-title="HD", Discovery TLC HD
 http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16710
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" parent-code="" group-title="HD", Discovery World HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16712
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.skybr.com.br/img/channels/lg-97-canal-disney-channel.png" parent-code="" group-title="HD", Disney Channel HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16713
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/09/studio-universal.png" parent-code="" group-title="HD", STUDIO UNIVERSAL HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16754
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.mundodastribos.com/2021/05/Programacao-Telecine-Fun-7.jpg" parent-code="" group-title="HD", Telecine Fun HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16754
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nicepng.com/png/detail/15-153394_discovery-science-discovery-science-tv-logo.png" parent-code="" group-title="HD", Discovery Science HD
 http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16708
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://4.bp.blogspot.com/-OI1MpOShYPQ/XHr0g08i_JI/AAAAAAABSms/IWyINMdPP7Aon84CJRYT5OX3QJXmtvUUwCPcBGAYYCw/s1600/comedy_central_2018_logo.png" parent-code="" group-title="HD", COMEDY CENTRAL HD
